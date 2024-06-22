@@ -2,21 +2,10 @@
 # Hey There Its HARRY From Nepal 👋 :
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td style="padding-right: 20px;">
-        <img src="https://github.com/HARRY-EXE/HARRY-EXE/assets/94730463/821a8823-804d-4ec3-8643-6cfad890bc3c" width="500" style="border: none;">
-      </td>
-      <td>
-        <h2>
-          About Me :
-        </h2>
-        <h4>
-          I am Harry.<br>I am from Nepal.<br>I'm learning Python.<br>Projects Done : 3.<br>I code for fun as i am a student.
-        </h4>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://github.com/HARRY-EXE/HARRY-EXE/assets/94730463/821a8823-804d-4ec3-8643-6cfad890bc3c" width="500" style="border: none;"
+  </p>
+  <h4> I'm Harry from Nepal, a Python programmer.<br>Showcasing my proficiency in software development.<br> I've successfully delivered more than 23 of impactful projects ! </h4>
 </div>
 
 
