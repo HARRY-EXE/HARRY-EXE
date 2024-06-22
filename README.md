@@ -2,12 +2,23 @@
 # Hey There Its HARRY From Nepal 👋 :
 
 <div align="center">
-  <img align="center" src="https://github.com/HARRY-EXE/HARRY-EXE/assets/94730463/821a8823-804d-4ec3-8643-6cfad890bc3c")
->
-    <h3>
-        I am Harry from Nepal. Right now, I'm learning Python and studying hard. I find Python fascinating because it's so useful and can do many things. I'm curious about how it works and excited to use it to solve problems. Besides studying, I enjoy exploring new ideas in technology and hope to make a difference with what I learn.
-    </h3>
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td style="padding-right: 20px;">
+        <img src="https://github.com/HARRY-EXE/HARRY-EXE/assets/94730463/821a8823-804d-4ec3-8643-6cfad890bc3c" width="750" style="border: none;">
+      </td>
+      <td>
+        <h2>
+          About Me :
+        </h2>
+        <h4>
+          I am Harry from Nepal. Right now, I'm learning Python.<br>I code for fun as i am a student. <br>I find Python fascinating because it's so useful and can do many things.<br>I'm curious about how it works and excited to use it to solve problems.<br>Besides studying, I enjoy exploring new ideas in technology and hope to make a difference with what I learn.
+        </h4>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ## Projects
 
