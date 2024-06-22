@@ -3,7 +3,7 @@
 
 <div align="center">
   <p>
-    <img src="https://github.com/HARRY-EXE/HARRY-EXE/assets/94730463/821a8823-804d-4ec3-8643-6cfad890bc3c" width="500" style="border: none;"
+    <img src="https://github.com/HARRY-EXE/HARRY-EXE/assets/94730463/821a8823-804d-4ec3-8643-6cfad890bc3c">
   </p>
   <h4> I'm Harry from Nepal, a Python programmer.<br>Showcasing my proficiency in software development.<br> I've successfully delivered more than 23 of impactful projects ! </h4>
 </div>
