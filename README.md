@@ -12,7 +12,7 @@
           About Me :
         </h2>
         <h4>
-          I am Harry from Nepal. Right now, I'm learning Python.<br>I code for fun as i am a student. <br>I find Python fascinating because it's so useful and can do many things.<br>I'm curious about how it works.<br>I enjoy exploring new ideas in technology and hope to make a difference with what I learn.
+          I am Harry.<br>I am from Nepal.<br>I'm learning Python.<br>Projects Done : 3.<br>I code for fun as i am a student.
         </h4>
       </td>
     </tr>
