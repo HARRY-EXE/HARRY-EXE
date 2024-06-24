@@ -8,6 +8,35 @@
   <h4>I'm Harry from Nepal, a Python programmer.Showcasing my proficiency in software development. I've successfully delivered more than 23 of impactful projects ! </h4>
 </div>
 
+```python
+class Person:
+    def __init__(self, name, username, age, hobbies, job):
+        self.name = name
+        self.username = username
+        self.age = age
+        self.hobbies = hobbies
+        self.job = job
+
+    def __str__(self):
+        return f"Person(name={self.name}, username={self.username}, age={self.age}, hobbies={self.hobbies}, job={self.job})"
+
+
+def main():
+    me = Person(
+        name="Harry Crexx.",
+        username="HARRY-EXE",
+        age=18,
+        hobbies=["anime", "coding", "music", "football"],
+        job="Python developer | Freelancer"
+    )
+
+    print(me)
+
+
+if __name__ == "__main__":
+    main()
+
+```
 
 ## Projects
 
