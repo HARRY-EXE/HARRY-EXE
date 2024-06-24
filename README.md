@@ -1,4 +1,5 @@
-<img width=100% title="HARRY-EXE" alt="HARRY-EXE" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,21&height=200&section=header&text=HARRY-EXE&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<h1 align="center">Harry Crexxx.<br></h1><br>
+
 
 <table border="0">
  <tr>
@@ -14,7 +15,7 @@
  </tr>  
 </table>
 
-<h2 align = "center" >About Me : </h2>
+<h3 align = "center" >About Me : </h3>
 
 ```python
 class Person:
