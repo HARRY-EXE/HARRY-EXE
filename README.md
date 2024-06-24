@@ -1,12 +1,20 @@
+<img width=100% title="HARRY-EXE" alt="HARRY-EXE" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,21&height=200&section=header&text=HARRY-EXE&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
-# Hey There Its HARRY From Nepal 👋 :
-
-<div align="center">
-  <p>
-    <img src="https://github.com/HARRY-EXE/HARRY-EXE/assets/94730463/821a8823-804d-4ec3-8643-6cfad890bc3c">
-  </p>
-  <h4>I'm Harry from Nepal, a Python programmer.Showcasing my proficiency in software development. I've successfully delivered more than 23 of impactful projects ! </h4>
+<table border="0">
+ <tr>
+    <td>
+      <br>
+     <p align="center">
+      <img width="280" align="center" src="https://github-widgetbox.vercel.app/api/profile?username=HARRY-EXE&data=followers,repositories,stars,commits&theme=viridescent"/>
+       <h5 align = "center" >I'm Harry from Nepal, a Python programmer.Showcasing my proficiency in software development. I've successfully delivered more than 23 of impactful projects ! </h5>
 </div>
+    <td>
+      <img alt="gif" src="https://github.com/HARRY-EXE/HARRY-EXE/assets/94730463/6b433417-45b5-4bc9-ac0a-b74521e398ae">
+   </td>  
+ </tr>  
+</table>
+
+<h2 align = "center" >About Me : </h2>
 
 ```python
 class Person:
